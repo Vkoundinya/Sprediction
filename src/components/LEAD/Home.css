@@ -85,15 +85,24 @@ p{
 {
 .container .right
 {
-    margin-left: -10%;
+    margin-left: -1%;
+}
+.heading h2,p
+{
+    margin-left: 10px;
+}
+.container .right
+{
+    width:auto;
 }
 .grid {
     grid-template-columns: repeat(1,2fr);
   }
 .date-selector
 {
-    margin-left: -30%;
+    margin-left: -40%;
 }
+
 .logo img {
     width: 30px;
     height: 30px;
