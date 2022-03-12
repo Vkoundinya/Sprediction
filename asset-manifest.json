@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sprediction/static/css/main.9c98cb46.css",
+    "main.js": "/Sprediction/static/js/main.b46cab48.js",
+    "static/js/787.cda612ba.chunk.js": "/Sprediction/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Sprediction/index.html",
+    "main.9c98cb46.css.map": "/Sprediction/static/css/main.9c98cb46.css.map",
+    "main.b46cab48.js.map": "/Sprediction/static/js/main.b46cab48.js.map",
+    "787.cda612ba.chunk.js.map": "/Sprediction/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c98cb46.css",
+    "static/js/main.b46cab48.js"
+  ]
+}
