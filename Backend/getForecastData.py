@@ -1,7 +1,0 @@
-from getStockData import getStockdata
-
-
-    
-
-        
-    
