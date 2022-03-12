@@ -1,0 +1,45 @@
+
+.container
+{
+    max-width: auto;
+}
+.forecast .container .box_shadow:hover
+{
+    background-color: white;
+    transition: 0.5s;
+}
+.forecast .container .box_shadow
+{
+    margin-left: -25%;
+    margin-right: 20%;
+}
+.forecast .gohome 
+{
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    color: #05192d;
+    background-color: white;
+    margin-top: -6%;
+}
+.forecast .gohome:hover
+{
+    
+    color: #05192d;
+    background-color:#03ef62;
+}
+
+.heading h2
+{
+    color: #03ef62;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.heading h3
+{
+    color:  #FccE0d;
+    margin-right: -10%;
+    padding-right: 700px;
+
+}

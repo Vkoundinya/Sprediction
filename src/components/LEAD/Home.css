@@ -1,0 +1,103 @@
+.submit_code
+{
+    margin-left: 27%;
+}
+
+.generate_graph
+{
+    margin-left: 25%;
+    margin-bottom: -10%;
+}
+.container.left
+{
+    padding: 10px;
+}
+.forecast_stock
+{
+    margin-left: 25%;
+}
+.container.right
+{
+    width: 750px;
+}
+.box_shadow:hover
+{
+    background-color: #FCCE0D;
+    transition: 0.5s;
+}
+.container h2{
+    margin-top: 5%;
+    font-size: 50px;
+    color:#FCCE0D ;
+    margin-left: -10%;
+}
+input[type=text]
+{
+    border: 2px solid #05192d;
+
+}
+input[type=date]
+{
+    border: 2px solid #05192d;
+
+}
+input[type=number]
+{
+    border: 2px solid #05192d;
+
+}
+p{
+    color: white;
+    margin-bottom: 10px;
+    margin-left: -20%;
+    margin-bottom: 10px;
+    margin-top: -5%;
+    padding: 10px;
+}
+.grid
+{
+  display: grid;
+  grid-template-columns: repeat(1,1fr);
+  grid-gap: 50px;
+}
+.date-selector
+{
+    margin-left: -90px;
+}
+.home .hire
+{
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    color: #05192d;
+    background-color: white;
+}
+.home .hire:hover
+{
+    
+    color: #05192d;
+    background-color:#03ef62;
+}
+.grid {
+    grid-template-columns: repeat(2,2fr);
+  }
+@media(max-width:1000px)
+{
+.container .right
+{
+    margin-left: -10%;
+}
+.date-selector
+{
+    margin-left: -30%;
+}
+.logo img {
+    width: 30px;
+    height: 30px;
+}
+ p
+ {
+     font-size: 10px;
+ }
+
+}

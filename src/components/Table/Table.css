@@ -1,0 +1,48 @@
+table {
+    border-collapse: collapse;
+    max-width: 1000px;
+    margin: 2rem auto;
+  }
+  table th, table td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+
+.container table 
+{
+    width: 300px;
+}
+.container table 
+{
+   overflow-y: scroll;
+    height:380px;
+    border-top: 0.5px solid black;
+   display:block;
+}
+.container table img
+{
+    width: 10px;
+    height: 10px;
+}
+.container th {
+    top: 0;
+    z-index: 99;
+    position: sticky;
+    background-color:#DDD;
+    color: black;
+ }
+.container table h3,h4
+{
+    font-size: 12px;
+}
+.container table h3 span
+{
+   padding :0 0 0 10px;
+}
+
+.box_shadow table
+{
+   padding: 0 100px 0 -100px;
+    max-width: 90%;
+}

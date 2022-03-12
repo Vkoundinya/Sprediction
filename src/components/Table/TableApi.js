@@ -1,0 +1,124 @@
+const table1=[
+
+    {
+        id:1
+        ,image:'https://drive.google.com/uc?id=1f1NFiUtDt-ATdv8RnjGPh0l_shZmozXf'
+        ,title:'Apple'
+        ,code:'AAPL'
+    }
+,
+    {
+        id:2,
+        image:"https://drive.google.com/uc?id=1ZKsrJfwJrga41YSj2D4okForgd-3dG7U"
+        ,title:"Google"
+        ,code:"GOOG"
+    
+    }
+,
+    {
+        id :3,
+        image:"https://drive.google.com/uc?id=1l2tBFz9x7MCV1EhKDFyCRJX_u-bttGNe"
+        ,title:"Microsoft"
+        ,code:"MSFT"
+    },
+    {
+        id:4
+        ,image:'https://drive.google.com/uc?id=1nZ5DhKoO9gq1JtTliTg1J6pgFCfAgodA'
+        ,title:'Adobe'
+        ,code:'ADBE'
+    },
+    {
+        id:5
+        ,image:'https://drive.google.com/uc?id=1_otw2lpNwzBPWLUV4z-4DZ2VDdQrHvEr'
+        ,title:'Oracle'
+        ,code:'ORCL'
+    },
+    {
+        id:6
+        ,image:'https://drive.google.com/uc?id=1t0KoPWL7ljdYJVq35kUNv1ejtG614q_N'
+        ,title:'Salesforce'
+        ,code:'CRM'
+    },
+    {
+        id:7
+        ,image:'https://drive.google.com/uc?id=1lzPBwjUecqw84B_oHwOE1ztdIqm4X_jm'
+        ,title:'SAP'
+        ,code:'SAP'
+    },
+    {
+        id:8
+        ,image:'https://drive.google.com/uc?id=1uPflU_WvTKk9oyGvPkX7tjydog8g3BRY'
+        ,title:'IBM'
+        ,code:'IBM'
+    },
+    {
+        id:9
+        ,image:'https://drive.google.com/uc?id=1sA7_SP7gJ9Yzda6ECVzozyZ8tUYmmt2f'
+        ,title:'Automatic Data Processing'
+        ,code:'ADP'
+    },
+    {
+        id:10
+        ,image:'https://drive.google.com/uc?id=1BZIVuk5FXV-gp0CLSR979KiXYkokNq03'
+        ,title:'VMWare'
+        ,code:'VMW'
+    },
+    {
+        id:11
+        ,image:'https://drive.google.com/uc?id=1dZsQST10OslRoYbcTEIHX0Xa73frDsta'
+        ,title:'Snowflake'
+        ,code:'SNOW'
+    },
+    {
+        id:12
+        ,image:'https://drive.google.com/uc?id=13fGj8yJJp6OYJENkPswlsMlNHWfmIn1E'
+        ,title:'Synopsys'
+        ,code:'SNPS'
+    },
+    {
+        id:13
+        ,image:'https://drive.google.com/uc?id=1xRKam0hk9SbF3oectKHPHBLLlrXu88NX'
+        ,title:'Cadence'
+        ,code:'CDNS'
+    },
+    {
+        id:14
+        ,image:'https://drive.google.com/uc?id=1W0-V8O_P3dpyg8mbcZ5N7wmSsU-a-z0N'
+        ,title:'Zscaler'
+        ,code:'ZS'
+    },
+    {
+        id:15
+        ,image:'https://drive.google.com/uc?id=195ddIW8QQ_2HA6jbcZzveBQLU0gEmmHc'
+        ,title:'MongoDB'
+        ,code:'MDB'
+    },
+    {
+        id:16
+        ,image:'https://drive.google.com/uc?id=1wob-dHdBAy3aDjg1g5srHJKIv_-zWzN-'
+        ,title:'Splunk'
+        ,code:'SPLK'
+    },
+    {
+        id:17
+        ,image:'https://drive.google.com/uc?id=1o0wnk_8pF_4cqz6Lr7H2RciEaFwuvhdD'
+        ,title:'UIPath'
+        ,code:'PATH'
+    },
+    {
+        id:18
+        ,image:'https://drive.google.com/uc?id=1jYs8Uj4p3svtqxe-elMRNzW3q4_iYg2v'
+        ,title:'Juniper N/W'
+        ,code:'JNPR'
+    },
+    {
+        id:19
+        ,image:'https://drive.google.com/uc?id=1z3hklxUylQr1o1Lez_rbhwswx6Rf6JxR'
+        ,title:'META'
+        ,code:'FB'
+    }
+    
+
+]
+
+export default table1
