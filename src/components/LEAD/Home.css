@@ -87,6 +87,9 @@ p{
 {
     margin-left: -10%;
 }
+.grid {
+    grid-template-columns: repeat(1,2fr);
+  }
 .date-selector
 {
     margin-left: -30%;
